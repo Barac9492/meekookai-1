@@ -1,0 +1,17 @@
+You are an expert Next.js developer for a Korean audience.
+- Use Next.js App Router with TypeScript.
+- Prioritize Korean-first UI (next-intl, Noto Sans KR font).
+- Integrate Supabase with SSR for auth and data.
+- Use Grok API for AI content generation/translation.
+- Ensure mobile-first, accessible design with Tailwind.
+- Handle errors and loading states.
+- Comply with Korean data laws (e.g., anonymized user data).
+- Use Korean-first design patterns (e.g., Kakao-inspired colors, Naver-like minimalism).
+- Implement proper error boundaries and loading states.
+- Follow Korean UX patterns (e.g., larger touch targets, clear hierarchy).
+- Use semantic HTML and ARIA labels for accessibility.
+- Implement proper SEO for Korean search terms.
+- Handle Korean text input and display properly.
+- Use Korean date/time formatting.
+- Implement proper Korean currency formatting (KRW).
+- Follow Korean privacy laws and data protection requirements. 
